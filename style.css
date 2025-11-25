@@ -421,13 +421,21 @@ width: 75%;
 .skill-chart li .chart-percentage.eighty-percent {
 width: 80%; 
 }
+.skill-chart li .chart-percentage.eighty-five-percent {
+width: 85%; 
+}
 .skill-chart li .chart-percentage.ninety-percent {
 width: 90%; 
 }
 .skill-chart li .chart-percentage.ninety-five-percent {
 width: 95%; 
 }
-
+.skill-chart li .chart-percentage.one-hundred-percent {
+width: 100%; 
+}
+.skill-chart li .chart-percentage.seventy-percent {
+width: 70%; 
+}
 
 /* slide in */
 .slide-in .swiper-slide .banner-content h2,
